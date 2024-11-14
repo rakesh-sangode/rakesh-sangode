@@ -18,6 +18,10 @@ I’m Rakesh Sangode, a Software Developer passionate about building impactful s
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img src="https://raw.githubusercontent.com/rakesh-sangode/rakesh-sangode/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rakesh-sangode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
